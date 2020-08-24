@@ -1,7 +1,5 @@
 # JavaDynamicProgramming
 
-Note to self: This repo is saved as the directory "LSE/Term 1/MA407 Algorithms & Computation/Week 9/MyCode_Week9"  
-
 We want to solve a problem by identifying a collection of subproblems, then solve these subproblems - smallest first.
 For solving a subproblem we may use the solution to even smaller subproblems.
 The subproblems should have the following property:
